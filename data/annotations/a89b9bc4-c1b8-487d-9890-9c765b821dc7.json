@@ -1,5 +1,115 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 715,
+      "end_time": 715,
+      "annotation": [
+        {
+          "text": "What kind of a song is this, "
+        },
+        {
+          "type": "link",
+          "url": "https://en.wikipedia.org/wiki/Zora_Neale_Hurston",
+          "children": [
+            {
+              "text": "Zora?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carita Doggett Corse"
+        }
+      ],
+      "uuid": "9bcd4d05-6b4d-4911-8efd-90c501f60324"
+    },
+    {
+      "start_time": 720,
+      "end_time": 720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When is it used?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carita Doggett Corse"
+        }
+      ],
+      "uuid": "020cd194-bac0-419f-b505-db9332f15bfc"
+    },
+    {
+      "start_time": 726,
+      "end_time": 726,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is the fire dance?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carita Doggett Corse"
+        }
+      ],
+      "uuid": "29e4cd21-783b-43b8-9a31-9785a67761e1"
+    },
+    {
+      "start_time": 735,
+      "end_time": 735,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And how did you happen to learn it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carita Doggett Corse"
+        }
+      ],
+      "uuid": "8a74f5c6-cadc-4369-89cf-9ae486aabf52"
+    },
+    {
+      "start_time": 771,
+      "end_time": 771,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carita Doggett Corse"
+        }
+      ],
+      "uuid": "6161e003-e56a-4dd1-9aac-1c2b04dedc8e"
+    }
+  ],
   "set": "Default",
   "event_id": "4b960a5f-4139-4b11-a4cf-a43ea70d98d6",
   "source_id": "f91d346e-3e54-4e38-a545-7d75f233d48e"
