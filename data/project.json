@@ -1,6 +1,6 @@
 {
   "publish": {
-    "publish_pages_app": false,
+    "publish_pages_app": true,
     "publish_sha": "",
     "publish_iso_date": ""
   },
@@ -43,8 +43,8 @@
       ]
     },
     "created_at": "2025-04-01T14:58:45.962Z",
-    "updated_at": "2025-04-01T18:03:04.463Z",
-    "generate_pages_site": false,
+    "updated_at": "2025-04-01T18:06:25.614Z",
+    "generate_pages_site": true,
     "is_private": false
   },
   "is_private": true,
