@@ -44,7 +44,8 @@
     },
     "created_at": "2025-04-01T14:58:45.962Z",
     "updated_at": "2025-04-01T17:48:36.199Z",
-    "generate_pages_site": false
+    "generate_pages_site": false,
+    "is_private": true
   },
   "is_private": true,
   "annotations": {
