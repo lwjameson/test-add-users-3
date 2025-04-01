@@ -18,7 +18,7 @@
     }
   ],
   "project": {
-    "github_org": "octocat",
+    "github_org": "",
     "title": "Test Add Users 3",
     "description": "Testing",
     "language": "en",
@@ -49,9 +49,7 @@
       ]
     },
     "created_at": "2025-04-01T14:58:45.962Z",
-    "updated_at": "2025-04-01T18:37:14.590Z",
-    "generate_pages_site": true,
-    "is_private": false
+    "updated_at": "2025-04-01T18:37:14.590Z"
   },
   "is_private": true,
   "annotations": {
