@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-04-02T14:26:25.741Z",
+  "created_by": "lwjameson",
+  "title": "Offline",
+  "slug": "offline",
+  "updated_at": "2025-04-02T14:26:25.741Z",
+  "updated_by": "lwjameson",
+  "parent": "8cf0ae7a-8271-4fcb-8fe5-a0fd9373220c",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "77d4bb50-8ff5-44c7-a279-5fe4f14b47fd"
+  }
+}
