@@ -28,9 +28,9 @@
               "align": "right"
             }
           ],
-          "bottom": 22,
-          "left": 52,
-          "right": 45,
+          "bottom": 15,
+          "left": 14,
+          "right": 12,
           "top": 30
         },
         {
@@ -45,13 +45,13 @@
                   "text": ""
                 }
               ],
-              "scale": 28
+              "scale": 56
             }
           ],
-          "left": 34,
-          "bottom": 22,
+          "left": 8,
+          "bottom": 0,
           "right": 0,
-          "top": 42
+          "top": 11
         }
       ]
     },
@@ -80,6 +80,6 @@
   "slug": "custom-1",
   "created_at": "2025-04-03T18:29:45.633Z",
   "created_by": "lwjameson",
-  "updated_at": "2025-04-03T18:58:50.271Z",
+  "updated_at": "2025-04-03T19:40:18.338Z",
   "updated_by": "lwjameson"
 }
