@@ -1,5 +1,28 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hey!",
+              "textSize": "heading-four"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carita Doggett Corse"
+        }
+      ],
+      "uuid": "892d62cd-3937-43b9-b47b-2e6c0c2f6d21"
+    }
+  ],
   "set": "Default",
   "event_id": "0174acef-95b2-44e5-a968-9dd7e52a8df3",
   "source_id": "130aa617-7288-458b-8035-a50ea32eee7d"
