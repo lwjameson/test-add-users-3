@@ -1,5 +1,5589 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 156,
+      "annotation": [
+        {
+          "text": "Se oye Radio Venceremos ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " desde el centro de la montaÃ±a, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " trasmitiendo sus mensajes ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " que es poder de un pueblo en armas. ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " A las 6:00 AM ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " se escucha su trasmisiÃ³n, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " es la Radio Venceremos ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " que es la voz de nuestra revoluciÃ³n. ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Una potente emisora ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " todos la escuchan aquÃ­, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " es la radio guerrillera ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " de Farabundo MartÃ­. ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Una potente emisora ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " todos la escuchan aquÃ­, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " es la radio guerrillera ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " de Farabundo MartÃ­. ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Toditos los combatientes ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " se encuentran muy animados, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " porque Radio Venceremos ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " los tiene bien informados. ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Toditos los combatientes ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " se encuentran muy animados, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " porque Radio Venceremos",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " los tiene bien informados. ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Una potente emisora ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " todos la escuchan aquÃ­, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " es la radio guerrillera ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " de Farabundo MartÃ­. ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Una potente emisora ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " todos la escuchan aquÃ­, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " es la radio guerrillera ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " de Farabundo MartÃ­.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MÃºsica"
+        }
+      ],
+      "uuid": "eafebab2-c0cc-46d2-b688-8b1eed60c662"
+    },
+    {
+      "start_time": 157,
+      "end_time": 228,
+      "annotation": [
+        {
+          "text": "El pueblo unido jamÃ¡s serÃ¡ vencido",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " El pueblo unido jamÃ¡s serÃ¡ vencido",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " El pueblo unido jamÃ¡s serÃ¡ vencido",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " De pie, cantar",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " que vamos a triunfar.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Avanzan ya",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " banderas de unidad.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Y tÃº vendrÃ¡s",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " marchando junto a mÃ­",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " y asÃ­ verÃ¡s",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " tu canto y tu bandera ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " florecer,",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " la luz",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " de un rojo amanecer",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " anuncia ya",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " la vida que vendrÃ¡",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " De pie, marchar, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " El pueblo va a triunfar.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " SerÃ¡ mejor ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " la vida que vendrÃ¡",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " a conquistar",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " nuestra felicidad",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " y en un clamor",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " mil voces de combate se alzarÃ¡n",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " dirÃ¡n",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " canciÃ³n de libertad",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " con decisiÃ³n",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " la patria vencerÃ¡.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " El pueblo unido jamÃ¡s serÃ¡ vencido",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " El pueblo unido jamÃ¡s serÃ¡ vencido",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " El pueblo unido jamÃ¡s serÃ¡ vencido",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MÃºsica"
+        }
+      ],
+      "uuid": "7f9a9589-d7a1-4e5c-b124-40474f598a29"
+    },
+    {
+      "start_time": 229,
+      "end_time": 248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Trasmite Radio Venceremos, voz oficial del Frente Farabundo MartÃ­ para la LiberaciÃ³n Nacional emitiendo su seÃ±al de libertad desde El Salvador, CentroamÃ©rica, territorio en combate contra la opresiÃ³n y el imperialismo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "FMLN"
+        }
+      ],
+      "uuid": "97a12514-dc40-4f4e-8497-85dd327a5789"
+    },
+    {
+      "start_time": 249,
+      "end_time": 259,
+      "annotation": [
+        {
+          "text": "La patria estÃ¡",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Forjando la unidad",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " De norte a sur",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Se movilizarÃ¡",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Desde el salar",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Ardiente y mineral",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Al bosque austral",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MÃºsica"
+        }
+      ],
+      "uuid": "c308c513-6bc0-4015-bafb-83ce52c38801"
+    },
+    {
+      "start_time": 260,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Radio Venceremos emitiendo su seÃ±al de libertad desde el Frente Oriental Francisco SÃ¡nchez, que comprende los departamentos de UsulutÃ¡n, San Miguel, La UniÃ³n y MorazÃ¡n."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "FMLN"
+        }
+      ],
+      "uuid": "3d0857ac-f06a-4a11-a2c1-eda8d9c271c1"
+    },
+    {
+      "start_time": 276,
+      "end_time": 304,
+      "annotation": [
+        {
+          "text": "El pueblo va a triunfar",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " millones ya,",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " imponen la verdad, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " de acero son",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " ardiente batallÃ³n",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " sus manos van",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " llevando la justicia y la razÃ³n",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " mujer",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " con fuego y con valor",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " ya estÃ¡s aquÃ­",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " junto al trabajador.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Y ahora el pueblo--",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MÃºsica"
+        }
+      ],
+      "uuid": "238ca6bd-db41-4abc-b255-2de2288269f9"
+    },
+    {
+      "start_time": 305,
+      "end_time": 322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En el aire Radio Venceremos rompiendo el cerco informativo de la dictadura. Radio Venceremos. ExpresiÃ³n del poder popular sobre territorios controlados por el pueblo en armas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        }
+      ],
+      "uuid": "3772bc9b-e01b-4962-bee3-61eda9a2c2cd"
+    },
+    {
+      "start_time": 323,
+      "end_time": 338,
+      "annotation": [
+        {
+          "text": "El pueblo unido jamÃ¡s serÃ¡ vencido",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " El pueblo unido jamÃ¡s serÃ¡ vencido",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " El pueblo unido jamÃ¡s serÃ¡ vencido",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " El pueblo unido jamÃ¡s serÃ¡ vencido",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " El pueblo unido jamÃ¡s serÃ¡ vencido",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MÃºsica"
+        }
+      ],
+      "uuid": "687041d0-9b3d-4f4a-a4ac-c10468f1ddad"
+    },
+    {
+      "start_time": 339,
+      "end_time": 394,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De esta manera Radio Venceremos inicia sus emisiones de esta hora enviando un saludo en el 17 aniversario de la creaciÃ³n de la OrganizaciÃ³n para la LiberaciÃ³n de Palestina, OLP, maÃ±ana 28 mayo dÃ­a en que cumple 17 aÃ±os de fundada la OrganizaciÃ³n para la LiberaciÃ³n de Palestina, movimiento hermano que en el Medio Oriente lucha por la liberaciÃ³n nacional. Radio Venceremos saluda a la lucha del pueblo palestino, saluda a esta organizaciÃ³n por alcanzar la paz, la democracia y la autodeterminaciÃ³n de un pueblo en su combate permanente contra la opresiÃ³n."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "OrganizaciÃ³n Para la LiberaciÃ³n de Palestina"
+        }
+      ],
+      "uuid": "4cd2a61b-8ba9-4b98-806a-5f286d6bbc87"
+    },
+    {
+      "start_time": 395,
+      "end_time": 411,
+      "annotation": [
+        {
+          "text": "Venceremos, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " venceremos. ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Mil cadenas ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " habrÃ¡ que romper. ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Venceremos, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Venceremos.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " La miseria sabremos vencer.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MÃºsica"
+        }
+      ],
+      "uuid": "1f510f76-1970-412a-8cd7-17dc9440b72d"
+    },
+    {
+      "start_time": 412,
+      "end_time": 423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A continuaciÃ³n el capitÃ¡n Francisco Emilio Mena Sandoval, miembro de la Juventud Militar del EjÃ©rcito Nacional, opina sobre el fraude de las elecciones."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Francisco Emilio Mena Sandoval"
+        }
+      ],
+      "uuid": "48d06c2a-2e91-488a-8230-7b5f2f61fb07"
+    },
+    {
+      "start_time": 424,
+      "end_time": 449,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¿QuÃ© clase de democracia es esta? En nuestro paÃ­s concretamente no pueden haber elecciones por no existir un Gobierno honesto que las garantice. El pueblo estÃ¡ cansado de este engaÃ±o y hoy ademÃ¡s de decir, \"Basta ya a los fraudes electorales\", lucha con las armas en la mano para conquistar su verdadera libertad, el Gobierno democrÃ¡tico y revolucionario, el cual serÃ¡ garantizado por un ejÃ©rcito de nueve equipos que serÃ¡n integrados por las fuerzas del Frente Farabundo MartÃ­ para la LiberaciÃ³n Nacional y las fuerzas de la Juventud Militar que serÃ¡n una garantÃ­a fÃ©rrea para el Gobierno y el pueblo salvadoreÃ±o."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Francisco Emilio Mena Sandoval"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "FMLN"
+        }
+      ],
+      "uuid": "94066371-6681-4f57-bd2e-f3b4fab5a6b9"
+    },
+    {
+      "start_time": 470,
+      "end_time": 487,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La proclama de la Juventud Militar y el Frente Farabundo MartÃ­ para la LiberaciÃ³n Nacional, marca el punto de partida hacia la paz de nuestra patria y marca histÃ³ricamente un compromiso revolucionario para y por el pueblo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Francisco Emilio Mena Sandoval"
+        }
+      ],
+      "uuid": "5f43862b-5be2-42d5-9dc6-3dabff8cc03c"
+    },
+    {
+      "start_time": 489,
+      "end_time": 501,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Militar patriota el pueblo es primero, Ãºnete, lucha, libertad y patria. Juventud Militar del ejÃ©rcito salvadoreÃ±o."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Francisco Emilio Mena Sandoval"
+        }
+      ],
+      "uuid": "2e57f6f6-611e-44bf-9dd7-1c7737ddfad8"
+    },
+    {
+      "start_time": 503,
+      "end_time": 543,
+      "annotation": [
+        {
+          "text": "En todo el departamento ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " solo se encuentran cenizas ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " de las casas ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " y los bienes ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " de familias campesinas. ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " En todo el departamento, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " solo se encuentran cenizas ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " de las casas ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " y los bienes ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " de familias campesinas. ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Han quemado magueyales, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " tambiÃ©n los caÃ±averales ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " y los verdes cafetales ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " y tambiÃ©n las arboledas, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " han quedado consumidas ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " por el fuego imperialista, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " reducidas a pequeÃ±as cantidades de cenizas ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " que el viento se estÃ¡ llevando ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " para los Estados Unidos ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " y cubrir de mal los ojos ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " al presidente asesino.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MÃºsica"
+        }
+      ],
+      "uuid": "cd7f09e4-a788-40bc-b457-c0bbebe07a15"
+    },
+    {
+      "start_time": 544,
+      "end_time": 553,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Trasmite Radio Venceremos voz oficial del Frente Farabundo MartÃ­ para la LiberaciÃ³n Nacional."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "FMLN"
+        }
+      ],
+      "uuid": "fa73b5f0-d931-4f11-94c0-98dfc4676f3e"
+    },
+    {
+      "start_time": 554,
+      "end_time": 564,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Emitiendo su seÃ±al de libertad desde El Salvador, CentroamÃ©rica, territorio en combate contra la opresiÃ³n y el imperialismo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        }
+      ],
+      "uuid": "6382a3b1-a449-46ed-a995-87e492fca97b"
+    },
+    {
+      "start_time": 565,
+      "end_time": 573,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(MÃºsica sin letra)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MÃºsica"
+        }
+      ],
+      "uuid": "32e0d9d9-22a8-4298-9b6e-c6f138f041c8"
+    },
+    {
+      "start_time": 574,
+      "end_time": 578,
+      "annotation": [
+        {
+          "text": "Estos son "
+        },
+        {
+          "text": "Los poderes creadores del pueblo.",
+          "italic": true
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Los Poderes Creadores del Pueblo"
+        }
+      ],
+      "uuid": "74545807-adf4-4cac-bd7a-51d23f520ab6"
+    },
+    {
+      "start_time": 579,
+      "end_time": 596,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(MÃºsica sin letra)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MÃºsica"
+        }
+      ],
+      "uuid": "7ca0914e-adf1-4458-886f-713cca088e11"
+    },
+    {
+      "start_time": 597,
+      "end_time": 624,
+      "annotation": [
+        {
+          "text": "En "
+        },
+        {
+          "text": "Los poderes creadores del pueblo",
+          "italic": true
+        },
+        {
+          "text": ", tenemos hoy la expresiÃ³n de un revolucionario y poeta, Roque Dalton, su poder creador presente en nuestra lucha, de su obra hoy hemos escogido la poesÃ­a, \"Los policÃ­as, y los guardias.\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Los Poderes Creadores del Pueblo"
+        }
+      ],
+      "uuid": "06ac240d-6e82-4e2d-a35d-de9477136298"
+    },
+    {
+      "start_time": 625,
+      "end_time": 915,
+      "annotation": [
+        {
+          "text": "Siempre vieron al pueblo"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " como un montÃ³n de espaldas que corrÃ­an para allÃ¡"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " como un campo para dejar caer con odio los garrotes."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " Siempre vieron al pueblo como el ojo de afinar la punterÃ­a"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " y entre el pueblo y el ojo"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " la mira de la pistola o el fusil."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " (Un dÃ­a ellos tambiÃ©n fueron pueblo"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " pero con la excusa del hambre y del desempleo"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " aceptaron un arma"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " un garrote y un sueldo mensual"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " para defender a los hambreados y a los desempleadores)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " Siempre vieron al pueblo aguantando"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " sudando"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " vociferando"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " levantando carteles"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " levantando puÃ±os"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " y cuando mÃ¡s diciÃ©ndoles:"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " âChuchos hijos de puta el dÃ­a les va a llegarâ."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " (Y cada dÃ­a que pasaba"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " ellos creÃ­an que habÃ­an hecho el gran negocio"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " al traicionar al pueblo del que nacieron:"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " âEl pueblo es un montÃ³n de dÃ©biles y pendejos âpensabanâ"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " quÃ© bien hicimos al pasarnos del lado de los vivos y de los fuertesâ.)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " Y entonces era de apretar el gatillo"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " y las balas iban de la orilla de los policÃ­as y los guardias"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " contra la orilla del pueblo"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " asÃ­ iban siempre"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " de allÃ¡ para acÃ¡"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " y el pueblo caÃ­a desangrÃ¡ndose"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " semana tras semana aÃ±o tras aÃ±o"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " quebrantado de huesos"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " lloraba por los ojos de las mujeres y los niÃ±os"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " huÃ­a de espanto"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " dejaba de ser pueblo para ser tropel en guinda"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " desaparecÃ­a en forma de cada quiÃ©n que se salvÃ³ para su casa"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " y luego nada mÃ¡s"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " sÃ³lo los bomberos lavaban la sangre de las calles."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " (Los coroneles los acababan de convencer:"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " âEso muchachos âles decÃ­anâ"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " duro y a la cabeza con los civiles"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " fuego con el populacho"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " ustedes tambiÃ©n son pilares uniformados de la NaciÃ³n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " sacerdotes de primera fila"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " en el culto a la bandera el escudo el himno los prÃ³ceres"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " la democracia representativa el partido oficial y el mundo libre"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " cuyos sacrificios no olvidarÃ¡ la gente decente de este paÃ­s aunque"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " por hoy no les podamos subir el sueldo"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " como desde luego es nuestro deseoâ.)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " Siempre vieron al pueblo"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " crispado en el cuarto de las torturas"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " colgado"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " apaleado"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " fracturado"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " tumefacto"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " asfixiado"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " violado"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " pinchado con agujas en los oÃ­dos y los ojos"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " electrificado"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " ahogado en orines y mierda"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " escupido"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " arrastrado"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " echando espumitas de humo sus Ãºltimos restos"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " en el infierno de la cal viva."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " (Cuando resultÃ³ muerto el dÃ©cimo Guardia Nacional. Muerto"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " [por el pueblo"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " y el quinto cuilio bien despeinado por la guerrilla urbana"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " los cuilios y los Guardias Nacionales comenzaron a pensar"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " sobre todo porque los coroneles ya cambiaron de tono"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " y hoy de cada fracaso le echan la culpa"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " a âlos elementos de tropa tan muelas que tenemosâ.)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " El hecho es que los policÃ­as y los guardias"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " siempre vieron al pueblo de allÃ¡ para acÃ¡."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " Que lo piensen mucho"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " que ellos mismos decidan si es demasiado tarde para buscar"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " la orilla del pueblo"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " y disparar desde allÃ­"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " codo a codo junto a nosotros."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " Que lo piensen mucho"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " pero entre tanto"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " que no se muestren sorprendidos"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " ni mucho menos pongan cara de ofendidos"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " hoy que ya algunas balas"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " comienzan a llegarles desde este lado"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " donde sigue estando el mismo pueblo de siempre"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " sÃ³lo que a estas alturas ya viene de pecho"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " y trae cada vez mÃ¡s fusiles."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Poema"
+        }
+      ],
+      "uuid": "89160ad7-34f9-41e1-bfce-953e1f1a5697"
+    },
+    {
+      "start_time": 916,
+      "end_time": 923,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(MÃºsica sin letra)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MÃºsica"
+        }
+      ],
+      "uuid": "cde0ace9-43a2-4dc4-acd8-bfe0e25428e8"
+    },
+    {
+      "start_time": 925,
+      "end_time": 929,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En Los poderes creadores del pueblo, Roque Dalton."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        }
+      ],
+      "uuid": "d3505e37-303c-4374-a07b-c5aa4845d91f"
+    },
+    {
+      "start_time": 930,
+      "end_time": 950,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(MÃºsica sin letra)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MÃºsica"
+        }
+      ],
+      "uuid": "72254833-8bb9-4a4e-8dbe-0e71a61b56d5"
+    },
+    {
+      "start_time": 951,
+      "end_time": 967,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Trasmite Radio Venceremos, voz oficial del Frente Farabundo MartÃ­ para la LiberaciÃ³n Nacional emitiendo su seÃ±al de libertad desde el Salvador, donde todo un pueblo combate a la opresiÃ³n."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "FMLN"
+        }
+      ],
+      "uuid": "3990cc32-12a7-4cf3-a30d-a4f7080f50cc"
+    },
+    {
+      "start_time": 968,
+      "end_time": 993,
+      "annotation": [
+        {
+          "text": "Daremos nuestra vida ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " por la patria. ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Porque la libertad aguantaremos. ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " La patria en esta tierra ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " venceremos. ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Trabajando dÃ­a a dÃ­a ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " viviremos. ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Tiranos y asesinos ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " ya no mÃ¡s.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MÃºsica"
+        }
+      ],
+      "uuid": "b60cd057-4ca5-4928-96b6-e03cb30c24b3"
+    },
+    {
+      "start_time": 994,
+      "end_time": 1016,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En estos momentos Radio Venceremos estÃ¡ recibiendo el parte de guerra nÃºmero 121 de la secciÃ³n de informaciÃ³n de la comandancia general del Frente Farabundo MartÃ­ para la LiberaciÃ³n Nacional a sus heroicos combatientes al pueblo salvadoreÃ±o, y a todos los pueblos del mundo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "FMLN"
+        }
+      ],
+      "uuid": "eda15f1f-9613-4a26-a883-1d2928def2f1"
+    },
+    {
+      "start_time": 1018,
+      "end_time": 1021,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reporte del Frente Central Modesto RamÃ­rez,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reporte"
+        }
+      ],
+      "uuid": "fd32662e-4394-4863-9af4-b5b9fe8f4409"
+    },
+    {
+      "start_time": 1022,
+      "end_time": 1040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "el 16 de mayo a las nueve de la noche fuerzas del FMLN atacaron las postas de soldados vestidos de civil en la hacienda Las Pilas en el cantÃ³n Potrero Grande,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Enfrentamiento"
+        }
+      ],
+      "uuid": "cfc23662-7d2f-4102-8c15-38e19d450441"
+    },
+    {
+      "start_time": 1041,
+      "end_time": 1044,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "le causamos una baja al enemigo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bajas"
+        }
+      ],
+      "uuid": "56964586-ad76-4147-9be5-8b670e59931c"
+    },
+    {
+      "start_time": 1045,
+      "end_time": 1072,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por nuestra parte nos retiramos sin sufrir ninguna baja despuÃ©s de haber realizado este operativo. El dÃ­a 17 de mayo a las nueve de la noche las fuerzas patriÃ³ticas del FMLN realizaron una acciÃ³n de hostigamiento a los postas del EscuadrÃ³n de la Muerte en la calle de San MartÃ­n a Suchitoto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bajas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Enfrentamiento"
+        }
+      ],
+      "uuid": "92a97c4f-4d9e-4e18-8931-a8850cf11a2b"
+    },
+    {
+      "start_time": 1074,
+      "end_time": 1078,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En esta acciÃ³n le causamos dos bajas al enemigo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bajas"
+        }
+      ],
+      "uuid": "9852b574-f49d-4f9d-8c95-9b6a828e3f66"
+    },
+    {
+      "start_time": 1079,
+      "end_time": 1094,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nuestras fuerzas continuando con las acciones de hostigamiento a que tenemos sometidas a las fuerzas del ejÃ©rcito genocida, que nos pretende desalojar de la regiÃ³n Suchitoto, Guazapa, realizamos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Enfrentamiento"
+        }
+      ],
+      "uuid": "8287f328-e3cb-4acb-91bb-01089b5e04e4"
+    },
+    {
+      "start_time": 1095,
+      "end_time": 1114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "actividades de sabotaje a las tuberÃ­as que conducen el agua a Suchitoto. Esto sucediÃ³ a la altura de Nixtamalapa. En la acciÃ³n se destruyÃ³ las tuberÃ­as dejando sin agua al cuartel de Suchitoto,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b33e9db5-c8b7-4bf3-90c1-5d471312cc58"
+    },
+    {
+      "start_time": 1115,
+      "end_time": 1130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "como complemento a esta acciÃ³n nuestras escuadras guerrilleras dejaron instalada una bomba cazabobos que estallÃ³ cuando el enemigo pretendÃ­a inspeccionar la zona."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Enfrentamiento"
+        }
+      ],
+      "uuid": "c229761b-15ec-4409-9199-37af8a0aedea"
+    },
+    {
+      "start_time": 1131,
+      "end_time": 1136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En esta acciÃ³n le causamos cinco bajas al enemigo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bajas"
+        }
+      ],
+      "uuid": "c04f03cf-19ad-4e15-9e7b-1a164a3ab009"
+    },
+    {
+      "start_time": 1138,
+      "end_time": 1157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El 18 de mayo a las 9:00 AM el Frente Farabundo MartÃ­ para la LiberaciÃ³n Nacional entablÃ³ combate contra fuerzas enemigas de patrullaje, en los cantones la Ceiba, Valle Nuevo, Valle Viejo, y Buenavista."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Enfrentamiento"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "FMLN"
+        }
+      ],
+      "uuid": "0fdbb4f5-ec1b-40d4-b07c-50ecda2da248"
+    },
+    {
+      "start_time": 1098,
+      "end_time": 1168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En esta acciÃ³n le causamos cuatro bajas al enemigo, bajas del FMLN un combatiente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bajas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "FMLN"
+        }
+      ],
+      "uuid": "f095050a-100b-48c2-95dd-3ebe2d1915be"
+    },
+    {
+      "start_time": 1169,
+      "end_time": 1189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ese mismo dÃ­a a las 5:00 PM fuerzas revolucionarias realizaron una emboscada de hostigamiento contra un camiÃ³n blindado del ejÃ©rcito que transportaba pertrechos a las fuerzas enemigas acantonadas en el cantÃ³n El Roblar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Enfrentamiento"
+        }
+      ],
+      "uuid": "5e38bda5-5daf-4c01-a445-f01a3c275d57"
+    },
+    {
+      "start_time": 1190,
+      "end_time": 1201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esta acciÃ³n la realizamos en la calle nueva a la altura de San Rafael causÃ¡ndole dos bajas al ejÃ©rcito tÃ­tere."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bajas"
+        }
+      ],
+      "uuid": "db33aa1a-ecb4-4038-b779-a089e3640022"
+    },
+    {
+      "start_time": 1202,
+      "end_time": 1228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El dÃ­a 19 de mayo, a las 11 horas. Comandos guerrilleros del FMLN sostuvieron un enfrentamiento con patrullas del EscuadrÃ³n de la Muerte en el CantÃ³n Santa Anita, jurisdicciÃ³n de Tenancingo, departamento de CuscatlÃ¡n, a 40 kilÃ³metros de San Salvador."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Enfrentamiento"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "FMLN"
+        }
+      ],
+      "uuid": "d0e246a9-2880-4e7f-a006-1b4ff2692023"
+    },
+    {
+      "start_time": 1230,
+      "end_time": 1233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En este combate se reporta una baja del enemigo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bajas"
+        }
+      ],
+      "uuid": "f97c264d-4b90-4225-9045-2c9aaae91f4f"
+    },
+    {
+      "start_time": 1234,
+      "end_time": 1290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A las 16 horas el ejÃ©rcito genocida prosiguiendo con la polÃ­tica de destrucciÃ³n y muerte y tierra arrasada que le dicta el octavo grupo Comando de Fuerzas Especiales del EjÃ©rcito Yanqui, atacÃ³ la hacienda la Bermuda en la zona Suchitoto Guazapa. Este ataque lo realizÃ³ enviando un camiÃ³n, una tanqueta y soldados del ejÃ©rcito que hicieron ocho disparos con mortero de 81 milÃ­metros contra el CantÃ³n Tenango. No se reportaron bajas en las filas del pueblo. SimultÃ¡neamente, otra fuerza intentÃ³ penetrar en el CantÃ³n San Francisco, controlado por las fuerzas patriÃ³ticas del FMLN,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Enfrentamiento"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "FMLN"
+        }
+      ],
+      "uuid": "d2aa206d-f4f4-47cc-bfb3-50577f3ea211"
+    },
+    {
+      "start_time": 1291,
+      "end_time": 1297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "el resultado del combate fue de dos bajas del enemigo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bajas"
+        }
+      ],
+      "uuid": "d5c5e6bb-1fae-4f97-8335-9070347529ff"
+    },
+    {
+      "start_time": 1298,
+      "end_time": 1329,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En Chalatenango, el 24 de mayo, el EjÃ©rcito Popular del FMLN continÃºa labores de hostigamiento en las cercanÃ­as de los poblados de Arcatao y San Antonio Los Ranchos. Una columna guerrillera del FMLN compuesta por 50 hombres, penetrÃ³ ese mismo dÃ­a al cantÃ³n Los Amates, departamento de Chalatenango, hostigando a las fuerzas del enemigo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Enfrentamiento"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "FMLN"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Chalatenango"
+        }
+      ],
+      "uuid": "37cffbfd-ba2f-42a0-86fc-121a422016e0"
+    },
+    {
+      "start_time": 1331,
+      "end_time": 1332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reporte del Frente Paracentral Anastasio Aquino."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reporte"
+        }
+      ],
+      "uuid": "8ca55765-216d-4b94-a266-c23a08d37e27"
+    },
+    {
+      "start_time": 1333,
+      "end_time": 1395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El dÃ­a 23 de mayo, comandos guerrilleros del FMLN atacaron las posiciones enemigas en el cantÃ³n Potrero Grande, en el departamento de CabaÃ±as. En este operativo, las fuerzas del FMLN minaron el terreno para impedir el libre movimiento del enemigo y aniquilar sus fuerzas. Esta acciÃ³n se realizÃ³ de la siguiente manera, a las 8:20 PM, se comenzÃ³ el hostigamiento con fuego de fusilerÃ­a del FMLN contra postas del enemigo. Con esto se provocÃ³ su huida en desbandada. A las 9:00 PM, la escuadra de zapadores del FMLN se retirÃ³ despuÃ©s de minar el terreno."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Enfrentamiento"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "FMLN"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "CabaÃ±as"
+        }
+      ],
+      "uuid": "6b523cc1-3fcc-4ac1-ab7c-b999075d7651"
+    },
+    {
+      "start_time": 1396,
+      "end_time": 1399,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A las 10:30 PM patrullas del enemigo cayeron en una de las minas, desconociÃ©ndose hasta el momento el nÃºmero de bajas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bajas"
+        }
+      ],
+      "uuid": "b20076e9-0aaf-4290-95cd-2dbaa4be46ff"
+    },
+    {
+      "start_time": 1400,
+      "end_time": 1409,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En el departamento de La Paz, las fuerzas patriÃ³ticas emboscaron un convoy del ejÃ©rcito genocida en las cercanÃ­as de Zacatecoluca."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Enfrentamiento"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "La Paz"
+        }
+      ],
+      "uuid": "900c8ba1-6ade-4727-b2b2-8ae5b8da79da"
+    },
+    {
+      "start_time": 1410,
+      "end_time": 1419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En este operativo le causamos dos bajas al enemigo, ademÃ¡s de dejar el vehÃ­culo averiado y fuera de combate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bajas"
+        }
+      ],
+      "uuid": "d8700c75-f65d-4fd1-b7dd-cc49b5202a12"
+    },
+    {
+      "start_time": 1420,
+      "end_time": 1431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En esta misma fecha, comandos guerrilleros atacaron la comandancia local del poblado de Santiago Nonualco en el departamento de La Paz."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Enfrentamiento"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "La Paz"
+        }
+      ],
+      "uuid": "a47c7e25-206d-409f-bdbb-70682babf8b2"
+    },
+    {
+      "start_time": 1432,
+      "end_time": 1439,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En este operativo le causamos tres bajas al enemigo, dos muertos y un herido."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bajas"
+        }
+      ],
+      "uuid": "6ac99ec5-4e04-46b9-9fa2-a1601b254ad8"
+    },
+    {
+      "start_time": 1440,
+      "end_time": 1454,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reporte del Frente Oriental Francisco SÃ¡nchez. El 24 de mayo, en el departamento de MorazÃ¡n, en los alrededores de Delicias de ConcepciÃ³n, se produjo un enfrentamiento por mÃ¡s de tres horas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reporte"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "MorazÃ¡n"
+        }
+      ],
+      "uuid": "e96857f2-38f5-403a-82bb-3b40f331710c"
+    },
+    {
+      "start_time": 1455,
+      "end_time": 1461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Las fuerzas del FMLN causamos varias bajas al enemigo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bajas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "FMLN"
+        }
+      ],
+      "uuid": "5809d49e-3f9c-4c13-aee9-afc1d4e92981"
+    },
+    {
+      "start_time": 1462,
+      "end_time": 1474,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando el combate llegÃ³ al punto mÃ¡s recio, cincuenta soldados de la dictadura huyeron en desbandada hasta la poblaciÃ³n de Delicias de ConcepciÃ³n en MorazÃ¡n."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Enfrentamiento"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "MorazÃ¡n"
+        }
+      ],
+      "uuid": "1f76125c-1958-485e-b822-22a6f37a635c"
+    },
+    {
+      "start_time": 1475,
+      "end_time": 1487,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En esta acciÃ³n resultaron heridos siete efectivos de la dictadura, entre ellos un capitÃ¡n que resultÃ³ fracturado de las piernas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bajas"
+        }
+      ],
+      "uuid": "30466a2b-4945-42ee-8fe4-9bf16a022e87"
+    },
+    {
+      "start_time": 1488,
+      "end_time": 1510,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unidos para combatir hasta la victoria final. RevoluciÃ³n o muerte, venceremos. San Salvador, 25 de mayo de 1981. SecciÃ³n de InformaciÃ³n de la Comandancia General del Frente Farabundo MartÃ­ para la LiberaciÃ³n Nacional."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "FMLN"
+        }
+      ],
+      "uuid": "dfbbd93a-f86c-4ad1-a828-74be0215c125"
+    },
+    {
+      "start_time": 1511,
+      "end_time": 1527,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ven salvadoreÃ±o, vamos a luchar, la patria espera por tu libertad, por tu libertad, por tu libertad.",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MÃºsica"
+        }
+      ],
+      "uuid": "13299d75-51dd-4255-94fe-c262e4c4e45c"
+    },
+    {
+      "start_time": 1528,
+      "end_time": 1560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En San Salvador, capital lastimada por la represiÃ³n de la dictadura, a pesar de la ley marcial y toque de queda, a pesar de la creciente militarizaciÃ³n de las calles y lugares pÃºblicos, nuestros compaÃ±eros, obreros, estudiantes, seÃ±oras de los mercados, pobladores de tugurios, milicianos y combatientes activan dÃ­a y noche sus operativos libertarios hostigando y socavando las fuerzas enemigas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reporte"
+        }
+      ],
+      "uuid": "e8d5c30b-ffee-4a31-a6af-a8de13187683"
+    },
+    {
+      "start_time": 1560,
+      "end_time": 1598,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El enemigo se ha empeÃ±ado en decir que nuestras acciones corresponden a actos de terrorismo. Nuestro pueblo sabe que no es asÃ­. Se trata de la continuidad de nuestra justa lucha de liberaciÃ³n nacional. Se trata de la respuesta popular al crimen y la represiÃ³n de la junta genocida. Adelante, compaÃ±eros de San Salvador. Los combatientes del Frente Oriental Francisco SÃ¡nchez lo saludan. El presente es de lucha. El futuro es nuestro."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Contexto PolÃ­tico"
+        }
+      ],
+      "uuid": "49e043d5-6a02-4746-8928-4047d5c83d29"
+    },
+    {
+      "start_time": 1599,
+      "end_time": 1621,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es una lucha que dura aÃ±os, que cuesta mucho. Miles de compaÃ±eros durante decenas de aÃ±os pagaron con su vida la prima y los primeros plazos por nuestra libertad.",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MÃºsica"
+        }
+      ],
+      "uuid": "9fffee34-901b-4aa4-a2af-857f29b893d2"
+    },
+    {
+      "start_time": 1622,
+      "end_time": 1665,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "CompaÃ±ero Jacinto, Pedro, Juana, o como te llames, ingresaste a las filas de los que nunca mueren, los que estamos siempre presentes en las acciones de cada hombre y mujer que lucha, de todos los torturados, de quienes viven con hambre, de aquellos que sobreviven muriÃ©ndose en los tugurios. CompaÃ±ero, amigo de la justicia, tu lucha, tambiÃ©n tu muerte, darÃ¡ tus frutos un dÃ­a de estos. CompaÃ±ero, ya viene el amanecer de un nuevo dÃ­a, un dÃ­a lleno de paz, de amor y de justicia.",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MÃºsica"
+        }
+      ],
+      "uuid": "d56c0ab3-21b6-4d2a-8329-734c3cdff581"
+    },
+    {
+      "start_time": 1666,
+      "end_time": 1688,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "CompaÃ±ero obrero, en los muros de tu fÃ¡brica la consigna es Radio Venceremos, de 6 a 7, de 6 a 7 Radio Venceremos. ExpresiÃ³n del Poder Popular sobre territorios controlados por nuestro pueblo en armas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        }
+      ],
+      "uuid": "88c4d97d-f55c-4735-a46f-179b4a269c8c"
+    },
+    {
+      "start_time": 1689,
+      "end_time": 1704,
+      "annotation": [
+        {
+          "text": "Venceremos, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " venceremos. ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Mil cadenas ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " habrÃ¡ que romper. ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Venceremos, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Venceremos.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MÃºsica"
+        }
+      ],
+      "uuid": "d1341122-de5e-4f2c-84b8-a870f882a9aa"
+    },
+    {
+      "start_time": 1705,
+      "end_time": 1727,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A continuaciÃ³n, presentamos una entrevista con un compaÃ±ero, ex miembro de la Guardia Civil, que atendiendo el llamado del Frente Farabundo MartÃ­ para la LiberaciÃ³n Nacional depuso su arma en la toma de Villa El Rosario el 16 de abril del presente aÃ±o. Escuchemos su testimonio sobre la represiÃ³n."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Argueta SÃ¡nchez"
+        }
+      ],
+      "uuid": "e133790f-6cbb-4591-9491-9aadca2a073f"
+    },
+    {
+      "start_time": 1729,
+      "end_time": 1739,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "PasÃ³ porque habÃ­an tomado la villa las fuerzas de FMLN, dijeron que iban a venir a tomarse la vuelta a donde allÃ­ entrÃ³ la policÃ­a de Torola de primero."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "MorazÃ¡n"
+        }
+      ],
+      "uuid": "63870ba8-0b3f-4343-a65f-9de2aa109568"
+    },
+    {
+      "start_time": 1742,
+      "end_time": 1760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "AllÃ­ mataron al que agarraron, mataron 19 entre niÃ±os y viejitos solo porque eran refugiados y otros allÃ­ del mero pueblo los andaban en la lista para matarlos, pero lo cual que mataron 19 muertes entre niÃ±os, viejitos y mujeres dando de mamar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bajas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Violencia Contra NiÃ±os"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "MorazÃ¡n"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Argueta SÃ¡nchez"
+        }
+      ],
+      "uuid": "8e0d7195-4ddd-4337-a81c-b8ba95b40f66"
+    },
+    {
+      "start_time": 1762,
+      "end_time": 1772,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "AllÃ­, como a los cinco dÃ­as saliÃ³ la noticia en el diario de que en un enfrentamiento en la Villa El Rosario habÃ­an muerto 19 guerrilleros y que de las bajas de ellos ninguno."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Contexto PolÃ­tico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Argueta SÃ¡nchez"
+        }
+      ],
+      "uuid": "1d17dab8-37a2-4a8d-9ffb-383dcd1632cc"
+    },
+    {
+      "start_time": 1773,
+      "end_time": 1773,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¿Esto fue en quÃ© mes?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevistador"
+        }
+      ],
+      "uuid": "8bcd0fed-cdc9-49c8-8dd3-12586e21c2d8"
+    },
+    {
+      "start_time": 1774,
+      "end_time": 1796,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En enero. Dije, Â«Puta, sÃ­ asÃ­ es como estÃ¡n mintiendo esta gente.Â» Y dije, Â«y uno incorporado a ellos, siendo cÃ³mplice yo de estas grandes masacres.Â» Fue cuando yo me convencÃ­ que era muy cierto. Claro que a la vista de uno estÃ¡n las cosas de los grandes asesinatos que ellos hacen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Argueta SÃ¡nchez"
+        }
+      ],
+      "uuid": "b3fb6d95-561a-4ba0-b39f-206e24d03baa"
+    },
+    {
+      "start_time": 1797,
+      "end_time": 108300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "O sea que en la Villa El Rosario el ejÃ©rcito asesinÃ³ a 19 personas, y despuÃ©s las hizo aparecer cÃ³mo--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevistador"
+        }
+      ],
+      "uuid": "b72b0d1d-bed2-43d7-9c7f-e4a57bf9ef15"
+    },
+    {
+      "start_time": 1806,
+      "end_time": 1816,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Como guerrilleras, y donde eran viejitos, niÃ±os, mujeres dando de mamar, allÃ­ me convencÃ­ yo que yo verbalmente vi cuando los andÃ¡bamos enterrando."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Argueta SÃ¡nchez"
+        }
+      ],
+      "uuid": "7d0c21ea-f558-4a63-a058-671b8ddc8cda"
+    },
+    {
+      "start_time": 1816,
+      "end_time": 1818,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¿Te acordÃ¡s de algunos nombres de los muertos?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevistador"
+        }
+      ],
+      "uuid": "3ef63df8-8ea3-4cf7-8e82-73a64cc991f0"
+    },
+    {
+      "start_time": 1819,
+      "end_time": 1822,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "SÃ­, solo uno, uno es Federico MÃ¡rquez, que era del centro."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Argueta SÃ¡nchez"
+        }
+      ],
+      "uuid": "0ad52275-f5db-4b1d-826a-5b46cf325b24"
+    },
+    {
+      "start_time": 1823,
+      "end_time": 1824,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¿Pero viste los cadÃ¡veres?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevistador"
+        }
+      ],
+      "uuid": "7b60183c-90b0-486b-9f27-9d5a667bf22c"
+    },
+    {
+      "start_time": 1825,
+      "end_time": 1840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "SÃ­, los vide. Uno con los dientes de afuera, otros descabezados, lo cual es asesinado Federico, un machetazo aquÃ­ en la nuca que le dieron, que lo dejaron medio vivo, y Ã©l se acabÃ³ de morir solo. Entonces allÃ­, pues, hubo un oficial tambiÃ©n, el que estaba allÃ­ puesto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Argueta SÃ¡nchez"
+        }
+      ],
+      "uuid": "fce4cc89-99cc-4d68-bae4-3ac54f863f18"
+    },
+    {
+      "start_time": 1841,
+      "end_time": 1841,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¿CÃ³mo se llamaba?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevistador"
+        }
+      ],
+      "uuid": "6545c736-168d-4737-8ef2-e7a0c9459a4e"
+    },
+    {
+      "start_time": 1842,
+      "end_time": 1842,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se llamaba teniente Grande GarcÃ­a."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Argueta SÃ¡nchez"
+        }
+      ],
+      "uuid": "8c0f33b7-af2f-4619-9a57-73903acbf914"
+    },
+    {
+      "start_time": 1843,
+      "end_time": 1845,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Grande GarcÃ­a."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevistador"
+        }
+      ],
+      "uuid": "fd2c91fb-13de-4e8e-9a47-b9ad760973dc"
+    },
+    {
+      "start_time": 1846,
+      "end_time": 1879,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "SÃ­, pues. Hubo un descontrol con ese policÃ­a de Torola, porque Ã©l ya estaba puesto ahÃ­, Â¿va?, Ã©l ya conocÃ­a a toda la gente. Entonces, como el teniente Grande, Don Quitico, y ese y que regresÃ³ de vuelta, les dijo a los de Torola, \"Puta. Ustedes,Â» les dijo, Â«andan masacrando a la gente, y asÃ­Â» les dijo, Â«Â¿CÃ³mo vamos a ganar?Â» les dijo, Â«Â¿QuÃ©? Si usted es subversivoÂ», le [dijeron], Â«A usted lo van a matar.Â» [le dijeron] Â«Vaya,Â» les dijo Ã©l, Â«SÃ­, yo soy subversivoÂ», les dijo, Â«AquÃ­ estÃ¡ mi equipo y todoÂ», dijo, Â«MÃ¡tenme.Â»"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Argueta SÃ¡nchez"
+        }
+      ],
+      "uuid": "e1b6c77f-e5aa-4a57-92fe-0176952a9576"
+    },
+    {
+      "start_time": 1881,
+      "end_time": 1903,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahorita, es una debilidad que ellos mismos tienen, que unos les gusta la masacre, y otros estÃ¡n al lado del pueblo en este momento, que quizÃ¡s por el sueldo o por la obligaciÃ³n que ellos los altos jefes, o los altos mandos les meten, estÃ¡n allÃ­."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevistador"
+        }
+      ],
+      "uuid": "db89a4de-19dd-4739-93ba-ec26e0848fb6"
+    },
+    {
+      "start_time": 1903,
+      "end_time": 1910,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vos decÃ­s que hay una contradicciÃ³n entre mismo ejÃ©rcito. Hay oficiales y soldados que estÃ¡n conscientes de las masacres."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevistador"
+        }
+      ],
+      "uuid": "7b663927-8802-487a-969f-66e71787a933"
+    },
+    {
+      "start_time": 1911,
+      "end_time": 1957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hay unos que no estÃ¡n de acuerdo en andar masacrando al pueblo, y otros que sÃ­. Yo le hiciera un llamado a todos esos oficiales, cabos, fui sargento, teniente, subteniente, que yo los he conocido, que no han sido asesinos, que vuelven por el pueblo, que dejen esas filas, que se incorporen a nuestro pueblo, que aquÃ­ se les recibirÃ¡ bien. Con lo cual no es nadie ni otro que les cuenta, sino quien lo ha hecho, y quien lo estÃ¡ viendo, y quien lo ha pasado, que yo he sido rendido aquÃ­, y he sido de testigo como el mejor compaÃ±ero--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Argueta SÃ¡nchez"
+        }
+      ],
+      "uuid": "56704bc3-6508-4c96-a91a-c7c544e71b2e"
+    },
+    {
+      "start_time": 1958,
+      "end_time": 1986,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo me siento muy feliz de encontrarme aquÃ­, porque allÃ¡ solo engaÃ±ado lo tenÃ­an a uno, aunque dicen que ellos ya van ganando, que la fuerza revolucionaria ya son unos dos, unos tres los que van quedando perdido. AsÃ­ es como tienen mucha gente engaÃ±ada. Es cuando uno ya echa de ver no lo engaÃ±an, y si alguno estÃ¡ engaÃ±ado quiero que le quede en claro, que no se siga dejando engaÃ±ar de ellos, que nuestro pueblo nunca perderÃ¡."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Argueta SÃ¡nchez"
+        }
+      ],
+      "uuid": "9b7774a5-3581-4001-8fb4-8f46adb238a2"
+    },
+    {
+      "start_time": 1987,
+      "end_time": 1994,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "JamÃ¡s serÃ¡ vencido. El pueblo unido jamÃ¡s serÃ¡ vencido."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MÃºsica"
+        }
+      ],
+      "uuid": "836c2ce2-cf7a-4e12-be6c-27792819467d"
+    },
+    {
+      "start_time": 1995,
+      "end_time": 2016,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hemos escuchado el testimonio de Santiago Argueta SÃ¡nchez, exmiembro de la Guardia Civil que atendiendo el llamado del Frente Farabundo MartÃ­ para la LiberaciÃ³n Nacional depuso su arma en la toma de Villa del Rosario, el 16 de abril del presente aÃ±o incorporÃ¡ndose a las luchas del pueblo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        }
+      ],
+      "uuid": "a5933ff5-de6c-45c6-9be4-470d534168fc"
+    },
+    {
+      "start_time": 2017,
+      "end_time": 2042,
+      "annotation": [
+        {
+          "text": "AsÃ­ verÃ¡ tu canto y tu bandera",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Florecer la luz de un rostro amanecer",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Anuncia ya la vida que vendrÃ¡",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " De pie marchar el pueblo va a triunfar",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " SerÃ¡ mejor la vida que vendrÃ¡",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " A conquistar nuestra felicidad",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Y en un clamor",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MÃºsica"
+        }
+      ],
+      "uuid": "a4445cb0-9cde-4706-ac0b-22e6b22ea275"
+    },
+    {
+      "start_time": 2043,
+      "end_time": 2060,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estas palabras de un joven salvadoreÃ±o que empuÃ±Ã³ las armas que le dio la dictadura, y que hoy empuÃ±a las armas del pueblo, es el reflejo fiel de lo que sucede en el seno de las Fuerzas Armadas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Contexto PolÃ­tico"
+        }
+      ],
+      "uuid": "f3b10144-8e7a-470a-9a1f-29259acde3bd"
+    },
+    {
+      "start_time": 2061,
+      "end_time": 2111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es la toma de conciencia de quienes perteneciendo a las clases explotadas de este paÃ­s, han permanecido engaÃ±ados por un alto mando militar criminal. QuiÃ©nes han sido reclutados a la fuerza o por necesidad han permanecido en el ejÃ©rcito al servicio de la opresiÃ³n, esos soldados campesinos han comenzado a abrir los ojos, han cuestionado la trinchera que han ocupado, han comenzado a hacerse preguntas. \"Â¿Por quÃ© lucho? Â¿A quiÃ©nes sirvo? Â¿Por quiÃ©nes estoy entregando hasta mi propia vida?\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Contexto PolÃ­tico"
+        }
+      ],
+      "uuid": "c870508d-c761-475f-b59f-ae20f78e8dc2"
+    },
+    {
+      "start_time": 2111,
+      "end_time": 2158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En JucuarÃ¡n departamento de UsulutÃ¡n, soldados de la tercera brigada se negaron a combatir contra las fuerzas del Frente Farabundo MartÃ­ para la LiberaciÃ³n Nacional. En Torola cinco policÃ­as de hacienda abandonaron ese cuerpo junto con su arma y equipo militar. En todo el paÃ­s estÃ¡ sucediendo lo mismo, soldados que se han concientizado ante la miseria que ellos conocen en su propia raÃ­z, la represiÃ³n que ellos mismos han ejecutado como instrumentos ciegos del poder oligÃ¡rquico, y los designios del imperialismo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Contexto PolÃ­tico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "UsulutÃ¡n"
+        }
+      ],
+      "uuid": "c1af6b3b-75c0-469c-8b9f-03e1f0c967d1"
+    },
+    {
+      "start_time": 2159,
+      "end_time": 2182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los soldados tienen en su propio pueblo su puesto de combate, y quienes han tomado esa decisiÃ³n, y se han integrado a nuestras filas han sido recibidos por sus hermanos de clase con el respeto y la fraternidad que ya todos conocen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Contexto PolÃ­tico"
+        }
+      ],
+      "uuid": "cc05bf1d-5bb2-4755-8577-021377e1a73f"
+    },
+    {
+      "start_time": 2184,
+      "end_time": 2224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Recientemente lo demostramos con el caso del soldado Santos Enrique DÃ­az Alvarenga, de la tercera brigada de San Miguel. Ahora lo acabamos de escuchar el testimonio de Santiago Argueta SÃ¡nchez exguardia civil en Villa del Rosario. En esta poblaciÃ³n cuando nuestras fuerzas tomaron las posiciones del enemigo, Santiago Argueta SÃ¡nchez ante el llamado de nuestros combatientes depuso sus armas, y se entregÃ³ a nuestras fuerzas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Contexto PolÃ­tico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Argueta SÃ¡nchez"
+        }
+      ],
+      "uuid": "31c3338d-9246-4f78-b7d1-f0d069fb4ae7"
+    },
+    {
+      "start_time": 2225,
+      "end_time": 2258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Enseguida manifestÃ³ su deseo sincero, consciente, de integrarse a las filas del pueblo, y en las declaraciones que nos ha brindado recalcÃ³ lo que todos sabemos, en el EjÃ©rcito Nacional existen profundas contradicciones entre el alto mando militar y oficiales, clases, y soldados que no estÃ¡n de acuerdo con el genocidio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Contexto PolÃ­tico"
+        }
+      ],
+      "uuid": "147b5e6e-b527-4241-a41f-5b1b0a072784"
+    },
+    {
+      "start_time": 2259,
+      "end_time": 2284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por otra parte para agudizar mÃ¡s estas contradicciones, dentro del EjÃ©rcito Nacional la oficialidad de joven no puede ver con buenos ojos que dÃ­a a dÃ­a los asesores militares yanquis tomen mayor parte en la conducciÃ³n de la guerra contra el pueblo, dÃ¡ndole cada dÃ­a un carÃ¡cter mÃ¡s criminal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Contexto PolÃ­tico"
+        }
+      ],
+      "uuid": "8ae24457-14da-47c4-a172-26e01f53c702"
+    },
+    {
+      "start_time": 2285,
+      "end_time": 2324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El caso de los soldados que desobedecieron las Ã³rdenes de combatir contra las posiciones del Frente Farabundo MartÃ­ para la LiberaciÃ³n Nacional, es decir, las posiciones del pueblo, mueve a reflexiones alentadoras en torno a lo que estÃ¡ sucediendo en el seno del ejÃ©rcito, que por otra parte no ha podido obtener ninguna victoria militar en todos los operativos contra nuestras posiciones en todo el territorio nacional."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Contexto PolÃ­tico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "FMLN"
+        }
+      ],
+      "uuid": "84d127ec-e26b-4796-8964-a8455ca4b1b3"
+    },
+    {
+      "start_time": 2325,
+      "end_time": 2353,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mientras esto sucede el pueblo se incorpora a las milicias, se incorpora a su ejÃ©rcito, se integra a las milpas del pueblo para producir los alimentos de su ejÃ©rcito revolucionario, consolida las zonas bajo su control, mientras que la dictadura vive su peor momento."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Contexto PolÃ­tico"
+        }
+      ],
+      "uuid": "8016aaf9-d5d6-4159-8ff8-7bc30cc93f4f"
+    },
+    {
+      "start_time": 2354,
+      "end_time": 2391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El pueblo cada dÃ­a se convence mÃ¡s que la victoria estÃ¡ al alcance de sus manos unidas y perseverantes. La esperanza nos embarga a todos, y por eso cerramos los puÃ±os, y a golpes de combate estamos alcanzando la victoria. Es decir, hoy como nunca tenemos la convicciÃ³n de que venceremos, lo que quiere decir que pronto conquistaremos la paz, y la justicia social para nuestro pueblo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Contexto PolÃ­tico"
+        }
+      ],
+      "uuid": "44794817-4923-45d7-a2ec-38c112187b90"
+    },
+    {
+      "start_time": 2392,
+      "end_time": 2415,
+      "annotation": [
+        {
+          "text": "...el trabajo",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " IrÃ¡n",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " La patria cubrirÃ¡n",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Su paso ya",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Anuncia el porvenir",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " De pie, luchar",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " El pueblo va a triunfar",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Millones ya",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Imponen la verdad",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " De acero son",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Ardiente batallÃ³n",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Sus manos van...",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MÃºsica"
+        }
+      ],
+      "uuid": "b33fdfb5-f0cc-49b4-90b1-b8913fb1fbc1"
+    },
+    {
+      "start_time": 2416,
+      "end_time": 2424,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Desde El Salvador, CentroamÃ©rica, territorio en combate contra la opresiÃ³n y el imperialismo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        }
+      ],
+      "uuid": "b17d93d7-92a9-4bd2-8fcd-d10ff07005e3"
+    },
+    {
+      "start_time": 2425,
+      "end_time": 2437,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Trasmite Radio Venceremos, voz oficial del Frente Farabundo MartÃ­ para la LiberaciÃ³n Nacional. Rompiendo el cerco informativo de la dictadura."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "FMLN"
+        }
+      ],
+      "uuid": "3de49efc-234e-45e7-acb3-81fd3e252ad7"
+    },
+    {
+      "start_time": 2438,
+      "end_time": 2454,
+      "annotation": [
+        {
+          "text": "El pueblo unido jamÃ¡s serÃ¡ vencido",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " El pueblo unido jamÃ¡s serÃ¡ vencido",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " El pueblo unido jamÃ¡s serÃ¡ vencido",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MÃºsica"
+        }
+      ],
+      "uuid": "5c946b0c-f975-4e75-9df1-6886b403f1f6"
+    },
+    {
+      "start_time": 2455,
+      "end_time": 2456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A continuaciÃ³n presentamos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        }
+      ],
+      "uuid": "b417ee2e-3f4d-4ac0-874a-e8391dc95e8e"
+    },
+    {
+      "start_time": 2457,
+      "end_time": 2459,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¡Globo informativo!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Globo Informativo"
+        }
+      ],
+      "uuid": "4c1daf0c-3a28-41cc-9e52-1883308f419b"
+    },
+    {
+      "start_time": 2459,
+      "end_time": 2472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Ametralladora)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Efectos de Sonido"
+        }
+      ],
+      "uuid": "a78991f0-4244-4d26-a8e6-a2710cf3e878"
+    },
+    {
+      "start_time": 2472,
+      "end_time": 2509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Frente DemocrÃ¡tico Revolucionario y Frente Farabundo MartÃ­ para la LiberaciÃ³n Nacional presentan condolencias por la muerte del presidente Jaime RoldÃ³s. Ante la trÃ¡gica muerte del presidente del Ecuador, Jaime RoldÃ³s, acaecida el reciÃ©n pasado domingo en un accidente de aviaciÃ³n, en el que ademÃ¡s se murieron otras seis personas, incluyendo a la esposa del presidente y el Ministro de Defensa, el FDR y FMLN emitieron un pÃ©same dirigido al pueblo y al Gobierno ecuatoriano."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Globo Informativo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jaime RoldÃ³s"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "FMLN"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ecuador"
+        }
+      ],
+      "uuid": "4905fc09-907d-47ef-8472-84e134fb099e"
+    },
+    {
+      "start_time": 2510,
+      "end_time": 2531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mediante este comunicado se expresa el pesar de estas organizaciones ante el mencionado hecho. El comunicado es firmado por la comandante Ana Guadalupe MartÃ­nez, por parte de la ComisiÃ³n PolÃ­tico DiplomÃ¡tica de ambas organizaciones."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Globo Informativo"
+        }
+      ],
+      "uuid": "9e0debde-195d-4d73-ab77-a1d759c89607"
+    },
+    {
+      "start_time": 2532,
+      "end_time": 2557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El mensaje dice lo siguiente, \"Profundamente consternados por el trÃ¡gico fallecimiento del seÃ±or presidente del Ecuador, doctor Jaime RoldÃ³s Aguilera, su esposa y el seÃ±or Ministro de Defensa, el FDR de El Salvador y el FMLN presentan sus condolencias al pueblo ecuatoriano\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Globo Informativo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jaime RoldÃ³s"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "FMLN"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ecuador"
+        }
+      ],
+      "uuid": "75527453-c693-40bb-951d-0f93108579c4"
+    },
+    {
+      "start_time": 2558,
+      "end_time": 2565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ante el cerco informativo de la dictadura, en el aire Radio Venceremos informando a nuestro pueblo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Globo Informativo"
+        }
+      ],
+      "uuid": "6a5fda58-1661-40e2-84d9-726ae481b169"
+    },
+    {
+      "start_time": 2566,
+      "end_time": 2599,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alexander Haig, repudiado por el pueblo norteamericano. En un cable girado por la agencia de noticias France-Presse, el Secretario de Estado norteamericano, Alexander Haig, mientras pronunciaba un violento discurso en relaciÃ³n a una supuesta injerencia de la UniÃ³n SoviÃ©tica en los asuntos del Tercer Mundo en una universidad en Connecticut, varios centenares de personas manifestaron su oposiciÃ³n a la polÃ­tica de Haig, en particular hacia nuestro paÃ­s."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Globo Informativo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Alexander Haig"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "EEUU"
+        }
+      ],
+      "uuid": "89b8990b-40fe-4196-bfc5-98bc66ae1f7e"
+    },
+    {
+      "start_time": 2600,
+      "end_time": 2633,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Asimismo, afirma la agencia noticiosa que mientras Haig hablaba, un grupo de manifestantes lo trataron de homicida. Los estudiantes, segÃºn el informe, fueron rÃ¡pidamente expulsados del teatro donde Haig pronunciaba su discurso. TambiÃ©n agregÃ³ el cable que al inicio del discurso mÃ¡s de una veintena de profesores de la universidad abandonaron el recinto para expresar de esa forma su oposiciÃ³n a la polÃ­tica exterior de los Estados Unidos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Globo Informativo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Alexander Haig"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "EEUU"
+        }
+      ],
+      "uuid": "f82b79d2-1533-41b1-b967-7dd04128f659"
+    },
+    {
+      "start_time": 2633,
+      "end_time": 2644,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "MÃ©xico, Distrito Federal, Radio Venceremos, voz oficial del Frente Farabundo MartÃ­ para la LiberaciÃ³n Nacional se sintoniza con claridad en este paÃ­s."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Globo Informativo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "8119fec4-62f4-4eab-8b38-0f057b620ad8"
+    },
+    {
+      "start_time": 2645,
+      "end_time": 2668,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por otra parte, los ComitÃ©s de Solidaridad para con El Salvador en MÃ©xico nos manifiestan que desarrollan una gran actividad, recibiendo una respuesta multitudinaria por parte del pueblo mexicano, siempre amigo para con nuestra justa causa. MÃ¡s informaciÃ³n a travÃ©s de Radio Venceremos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Globo Informativo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "MÃ©xico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        }
+      ],
+      "uuid": "8604cb50-5c09-4947-b104-a704cbae3ca1"
+    },
+    {
+      "start_time": 2669,
+      "end_time": 2682,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuatro elementos del ejÃ©rcito genocida murieron y varios resultaron heridos por la explosiÃ³n de una mina que se encontraba en un promontorio de piedras en Zacatecoluca al sur de San Salvador."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bajas"
+        }
+      ],
+      "uuid": "1c51f0e2-1b60-4ef5-9e40-8f9c633dfa02"
+    },
+    {
+      "start_time": 2683,
+      "end_time": 2700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "SegÃºn informes de voceros del rÃ©gimen, tres de los muertos eran miembros del ejÃ©rcito represivo del Salvador, quienes se disponÃ­an a quitar las piedras que contenÃ­an el paso cuando estallÃ³ el artefacto colocado por los combatientes del Frente Paracentral Anastasio Aquino."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "77d86593-430a-43a2-89c6-a9ce4c9619b1"
+    },
+    {
+      "start_time": 2701,
+      "end_time": 2704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Ametralladora)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Efectos de Sonido"
+        }
+      ],
+      "uuid": "f26fee04-dc22-49c9-9999-1f9d7e732763"
+    }
+  ],
   "set": "Default",
   "event_id": "77d4bb50-8ff5-44c7-a279-5fe4f14b47fd",
   "source_id": "3ea32a2b-25c4-439b-a52f-4f7ccacd88be"
