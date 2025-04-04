@@ -1,0 +1,609 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        4,
+        2
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "August 3, 1953",
+                  "textSize": "heading-two"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Evening:",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "grid",
+              "layout": [
+                4,
+                2
+              ],
+              "children": [
+                {
+                  "type": "column",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Introduction to Carvel Collins",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-one"
+                        },
+                        {
+                          "text": ", William Yandell Elliot"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Conference Opening Remarks",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-one"
+                        },
+                        {
+                          "text": ", Carvel Collins"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "\"New Trends in the Contemporary Novel,\"",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-one"
+                        },
+                        {
+                          "text": " Stanley Hyman"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "\"The Modern Novel,\" "
+                        },
+                        {
+                          "text": "Part One",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-one"
+                        },
+                        {
+                          "text": " and "
+                        },
+                        {
+                          "text": "Part Two",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two"
+                        },
+                        {
+                          "text": ", Frank O'Connor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Response to Hyman and O'Connor",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two"
+                        },
+                        {
+                          "text": ", Anthony West"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Panel Discussion",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two"
+                        }
+                      ]
+                    }
+                  ],
+                  "left": 8
+                },
+                {
+                  "type": "column",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "August 4, 1953",
+                  "textSize": "heading-two"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Afternoon:",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "grid",
+              "layout": [
+                4,
+                2
+              ],
+              "children": [
+                {
+                  "type": "column",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Session Introduction",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one"
+                        },
+                        {
+                          "text": ", Carvel Collins"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Lecture, "
+                        },
+                        {
+                          "text": "Part One",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one"
+                        },
+                        {
+                          "text": " and "
+                        },
+                        {
+                          "text": "Part Two",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two"
+                        },
+                        {
+                          "text": ", W. M. Frohock"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Session Discussion "
+                        },
+                        {
+                          "text": "Part One",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two"
+                        },
+                        {
+                          "text": ", "
+                        },
+                        {
+                          "text": "Part Two",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three"
+                        },
+                        {
+                          "text": ", and "
+                        },
+                        {
+                          "text": "Part Three",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-four"
+                        }
+                      ]
+                    }
+                  ],
+                  "left": 8,
+                  "right": 0,
+                  "top": 0,
+                  "bottom": 0
+                },
+                {
+                  "type": "column",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Evening:",
+                  "textSize": "heading-two"
+                }
+              ]
+            },
+            {
+              "type": "grid",
+              "layout": [
+                4,
+                2
+              ],
+              "children": [
+                {
+                  "type": "column",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Opening Remarks",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-4-evening-part-one"
+                        },
+                        {
+                          "text": ", Carvel Collins"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "\"The Era of the Novel?,\" "
+                        },
+                        {
+                          "text": "Part One",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-4-evening-part-one"
+                        },
+                        {
+                          "text": " and "
+                        },
+                        {
+                          "text": "Part Two",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-4-evening-part-two"
+                        },
+                        {
+                          "text": ", George Simenon"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "\"Certain Neglected Aspects of the American Novel,\" Ralph Ellison"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Response to Simenon and Ellison, W.M. Frohock"
+                        }
+                      ]
+                    }
+                  ],
+                  "left": 8
+                },
+                {
+                  "type": "column",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "August 5, 1953",
+                  "textSize": "heading-two"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Afternoon:",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "grid",
+              "layout": [
+                4,
+                2
+              ],
+              "children": [
+                {
+                  "type": "column",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Opening Remarks",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-one"
+                        },
+                        {
+                          "text": ", Carvel Collins"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Lecture",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-one"
+                        },
+                        {
+                          "text": ", Hans Egon Holthusen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Session Discussion "
+                        },
+                        {
+                          "text": "Part One",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-one"
+                        },
+                        {
+                          "text": ", "
+                        },
+                        {
+                          "text": "Part Two",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two"
+                        },
+                        {
+                          "text": ", "
+                        },
+                        {
+                          "text": "Part Three",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-three"
+                        },
+                        {
+                          "text": ", and "
+                        },
+                        {
+                          "text": "Part Four",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-four"
+                        },
+                        {
+                          "text": "."
+                        }
+                      ]
+                    }
+                  ],
+                  "left": 8
+                },
+                {
+                  "type": "column",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Evening:",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "grid",
+              "layout": [
+                4,
+                2
+              ],
+              "children": [
+                {
+                  "type": "column",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Opening Remarks",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-one"
+                        },
+                        {
+                          "text": ", Carvel Collins"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "\"Paperback Books and the Writer,\"",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-one"
+                        },
+                        {
+                          "text": " Hilda Livingston"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "\"The Editor and The Author,\"",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-one"
+                        },
+                        {
+                          "text": " William Sloane"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Panel Discussion",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two"
+                        }
+                      ]
+                    }
+                  ],
+                  "left": 8
+                },
+                {
+                  "type": "column",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://tanyaclement.github.io/harvard1953/fullsizeoutput_1950e.jpeg",
+              "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Annotation Index of Events and Participants",
+          "link": "https://tanyaclement.github.io/harvard1953/term_index"
+        }
+      ]
+    }
+  ],
+  "title": "The 1953 Harvard Summer School Conference on the Contemporary Novel",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "the-1953-harvard-summer-school-conference-on",
+  "created_at": "2025-04-04T14:55:55.625Z",
+  "created_by": "lwjameson",
+  "updated_at": "2025-04-04T14:55:55.625Z",
+  "updated_by": "lwjameson"
+}
