@@ -139,7 +139,11 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "top": 20,
+                  "left": 8,
+                  "right": 0,
+                  "bottom": 0
                 }
               ]
             },
@@ -612,6 +616,6 @@
   "slug": "the-1953-harvard-summer-school-conference-on",
   "created_at": "2025-04-04T14:55:55.625Z",
   "created_by": "lwjameson",
-  "updated_at": "2025-04-04T14:58:07.093Z",
+  "updated_at": "2025-04-04T15:40:24.918Z",
   "updated_by": "lwjameson"
 }
