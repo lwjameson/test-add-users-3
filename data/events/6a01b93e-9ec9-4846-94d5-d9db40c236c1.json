@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "8cba445f-f69a-4cee-a613-23745f11445e": {
+      "label": "Offline",
+      "is_offline": true,
+      "file_url": "",
+      "duration": 90,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Test Exprt",
+  "created_at": "2025-04-04T19:47:05.742Z",
+  "created_by": "lwjameson",
+  "updated_at": "2025-04-04T19:47:05.742Z",
+  "updated_by": "lwjameson"
+}
