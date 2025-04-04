@@ -309,7 +309,11 @@
                       "type": "paragraph",
                       "children": [
                         {
-                          "text": "\"Certain Neglected Aspects of the American Novel,\" Ralph Ellison"
+                          "text": "\"Certain Neglected Aspects of the American Novel,\"",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-4-evening-part-two"
+                        },
+                        {
+                          "text": " Ralph Ellison"
                         }
                       ]
                     },
@@ -317,7 +321,11 @@
                       "type": "paragraph",
                       "children": [
                         {
-                          "text": "Response to Simenon and Ellison, W.M. Frohock"
+                          "text": "Response to Simenon and Ellison",
+                          "link": "https://tanyaclement.github.io/harvard1953/august-4-evening-part-three"
+                        },
+                        {
+                          "text": ", W.M. Frohock"
                         }
                       ]
                     }
@@ -604,6 +612,6 @@
   "slug": "the-1953-harvard-summer-school-conference-on",
   "created_at": "2025-04-04T14:55:55.625Z",
   "created_by": "lwjameson",
-  "updated_at": "2025-04-04T14:55:55.625Z",
+  "updated_at": "2025-04-04T14:58:07.093Z",
   "updated_by": "lwjameson"
 }
