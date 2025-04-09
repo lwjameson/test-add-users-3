@@ -26,7 +26,8 @@
                   "text": ""
                 }
               ],
-              "scale": 100
+              "scale": 100,
+              "altText": "Great Photo"
             },
             {
               "type": "paragraph",
@@ -70,6 +71,6 @@
   "slug": "custom-1",
   "created_at": "2025-04-03T18:29:45.633Z",
   "created_by": "lwjameson",
-  "updated_at": "2025-04-09T20:28:48.771Z",
+  "updated_at": "2025-04-09T20:39:31.592Z",
   "updated_by": "lwjameson"
 }
