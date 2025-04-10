@@ -39,8 +39,7 @@
             {
               "type": "grid",
               "layout": [
-                4,
-                2
+                6
               ],
               "children": [
                 {
@@ -127,23 +126,6 @@
                     }
                   ],
                   "left": 8
-                },
-                {
-                  "type": "column",
-                  "children": [
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
-                    }
-                  ],
-                  "top": 23,
-                  "left": 21,
-                  "right": 0,
-                  "bottom": 0
                 }
               ]
             },
@@ -168,8 +150,7 @@
             {
               "type": "grid",
               "layout": [
-                4,
-                2
+                6
               ],
               "children": [
                 {
@@ -240,19 +221,6 @@
                   "right": 0,
                   "top": 0,
                   "bottom": 0
-                },
-                {
-                  "type": "column",
-                  "children": [
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
-                    }
-                  ]
                 }
               ]
             },
@@ -268,8 +236,7 @@
             {
               "type": "grid",
               "layout": [
-                4,
-                2
+                6
               ],
               "children": [
                 {
@@ -335,19 +302,6 @@
                     }
                   ],
                   "left": 8
-                },
-                {
-                  "type": "column",
-                  "children": [
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
-                    }
-                  ]
                 }
               ]
             },
@@ -380,8 +334,7 @@
             {
               "type": "grid",
               "layout": [
-                4,
-                2
+                6
               ],
               "children": [
                 {
@@ -449,19 +402,6 @@
                     }
                   ],
                   "left": 8
-                },
-                {
-                  "type": "column",
-                  "children": [
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
-                    }
-                  ]
                 }
               ]
             },
@@ -485,8 +425,7 @@
             {
               "type": "grid",
               "layout": [
-                4,
-                2
+                6
               ],
               "children": [
                 {
@@ -539,23 +478,14 @@
                     }
                   ],
                   "left": 8
-                },
-                {
-                  "type": "column",
-                  "children": [
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
-                    }
-                  ]
                 }
               ]
             }
-          ]
+          ],
+          "right": 0,
+          "left": 0,
+          "top": 0,
+          "bottom": 0
         },
         {
           "type": "column",
@@ -576,7 +506,8 @@
                 {
                   "text": ""
                 }
-              ]
+              ],
+              "scale": 100
             },
             {
               "type": "paragraph",
@@ -616,6 +547,6 @@
   "slug": "the-1953-harvard-summer-school-conference-on",
   "created_at": "2025-04-04T14:55:55.625Z",
   "created_by": "lwjameson",
-  "updated_at": "2025-04-07T19:08:05.493Z",
+  "updated_at": "2025-04-10T13:29:15.860Z",
   "updated_by": "lwjameson"
 }
