@@ -1,1 +1,14 @@
-{"content":[],"created_at":"2025-04-09T13:02:28.757Z","created_by":"lwjameson","title":"Bad Upload Test","slug":"bad-upload-test","updated_at":"2025-04-17T12:51:35.326Z","updated_by":"lwjameson","autogenerate":{"enabled":true,"type":"event","type_id":"eb96f112-79e2-4c09-8627-5a9a8024c96e"},"parent":"c6f32163-e321-4f6c-abee-d6af55218f7a"}
+{
+  "content": [],
+  "created_at": "2025-04-09T13:02:28.757Z",
+  "created_by": "lwjameson",
+  "title": "Bad Upload Test",
+  "slug": "bad-upload-test",
+  "updated_at": "2025-04-17T16:55:45.966Z",
+  "updated_by": "lwjameson",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "eb96f112-79e2-4c09-8627-5a9a8024c96e"
+  }
+}
