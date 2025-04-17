@@ -4,12 +4,11 @@
   "created_by": "lwjameson",
   "title": "S1576, T86-245",
   "slug": "s1576-t86-245",
-  "updated_at": "2025-04-17T14:47:57.857Z",
+  "updated_at": "2025-04-17T14:51:13.437Z",
   "updated_by": "lwjameson",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "ffc94d15-9fda-409c-a256-9738113f156f"
-  },
-  "parent": "8cf0ae7a-8271-4fcb-8fe5-a0fd9373220c"
+  }
 }
