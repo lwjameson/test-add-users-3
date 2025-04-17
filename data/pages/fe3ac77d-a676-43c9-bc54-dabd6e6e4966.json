@@ -1,1 +1,15 @@
-{"content":[],"created_at":"2025-04-01T15:17:17.213Z","created_by":"lwjameson","title":"S1576, T86-243","slug":"s1576-t86-243","updated_at":"2025-04-01T15:17:17.213Z","updated_by":"lwjameson","parent":"8cf0ae7a-8271-4fcb-8fe5-a0fd9373220c","autogenerate":{"enabled":true,"type":"event","type_id":"4b960a5f-4139-4b11-a4cf-a43ea70d98d6"}}
+{
+  "content": [],
+  "created_at": "2025-04-01T15:17:17.213Z",
+  "created_by": "lwjameson",
+  "title": "S1576, T86-243",
+  "slug": "s1576-t86-243",
+  "updated_at": "2025-04-17T14:48:28.382Z",
+  "updated_by": "lwjameson",
+  "parent": "b9895640-bad9-46ff-8faa-977143524027",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "4b960a5f-4139-4b11-a4cf-a43ea70d98d6"
+  }
+}
