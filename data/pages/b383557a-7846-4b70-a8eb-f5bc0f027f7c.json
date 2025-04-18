@@ -142,8 +142,17 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "August 4, 1953",
+                  "text": "",
                   "textSize": "heading-two"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-two",
+                  "text": "August 4, 1953"
                 }
               ]
             },
@@ -246,8 +255,17 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Evening:",
-                  "textSize": "heading-two"
+                  "text": "",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-three",
+                  "text": "Evening:"
                 }
               ]
             },
@@ -574,6 +592,6 @@
   "slug": "the-1953-harvard-summer-school-conference-on",
   "created_at": "2025-04-04T14:55:55.625Z",
   "created_by": "lwjameson",
-  "updated_at": "2025-04-18T18:40:57.967Z",
+  "updated_at": "2025-04-18T18:55:19.251Z",
   "updated_by": "lwjameson"
 }
