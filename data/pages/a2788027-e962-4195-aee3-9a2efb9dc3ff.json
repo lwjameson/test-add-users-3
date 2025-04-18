@@ -4,6 +4,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "After establishing this new routine, the riverman shares a slight adjustment: \"Luandinha gives a party. /Three times now I have attended. Then the description offers a temporal surprise."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -18,31 +26,55 @@
           "type": "column",
           "children": [
             {
-              "type": "image",
-              "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Hurston%2C_Zora_Neale_4_%28cropped%29.jpg",
-              "size": "medium",
+              "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "Her rooms shine like silver"
                 }
-              ],
-              "scale": 100,
-              "altText": "Great Photo"
+              ]
             },
             {
               "type": "paragraph",
               "children": [
                 {
-                  "text": "hello!"
+                  "text": "with the light from overhead,"
                 }
-              ],
-              "align": "center"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "a steady stream of light"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Like at the cinema"
+                }
+              ]
             }
           ],
-          "left": 41,
-          "bottom": 0,
-          "right": 0,
-          "top": 0
+          "left": 4
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Until this point"
         }
       ]
     },
@@ -71,6 +103,6 @@
   "slug": "custom-1",
   "created_at": "2025-04-03T18:29:45.633Z",
   "created_by": "lwjameson",
-  "updated_at": "2025-04-09T20:39:31.592Z",
+  "updated_at": "2025-04-18T17:07:45.456Z",
   "updated_by": "lwjameson"
 }
