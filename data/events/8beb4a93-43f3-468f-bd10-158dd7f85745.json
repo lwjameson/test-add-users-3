@@ -5,7 +5,11 @@
       "is_offline": false,
       "file_url": "https://ia800109.us.archive.org/15/items/sample-02_202502/Sample%2002.mp3",
       "duration": 174,
-      "duration_overridden": false
+      "duration_overridden": false,
+      "set_sort": [
+        "8453373a-ea6a-46c5-8b4c-d8071241b354",
+        "5730f3e7-ffe0-4fda-af53-31d8c2ba74bc"
+      ]
     },
     "cbaeae0c-2c91-4c91-9c9c-9be016178b36": {
       "label": "Again",
@@ -32,7 +36,7 @@
   ],
   "created_at": "2025-04-08T18:09:01.058Z",
   "created_by": "lwjameson",
-  "updated_at": "2025-04-25T13:48:12.323Z",
+  "updated_at": "2025-04-25T13:51:46.155Z",
   "updated_by": "lwjameson",
   "av_file_order": [
     "1a79010b-ca34-484d-983b-1a579451d2de",
