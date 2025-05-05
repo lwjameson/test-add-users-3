@@ -1,0 +1,31 @@
+{
+  "audiovisual_files": {
+    "03e0cab8-cbd2-4cff-81c8-003cc2456b46": {
+      "label": "",
+      "file_type": "Audio",
+      "is_offline": false,
+      "file_url": "",
+      "duration": 90,
+      "duration_overridden": false,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Test Add 2",
+  "created_at": "2025-05-05T18:29:37.286Z",
+  "created_by": "lwjameson",
+  "updated_at": "2025-05-05T18:29:37.286Z",
+  "updated_by": "lwjameson"
+}
