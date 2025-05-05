@@ -1102,6 +1102,265 @@
         }
       ],
       "uuid": "f21887e0-ba4d-4132-aab2-c53d9b6b4469"
+    },
+    {
+      "start_time": 1,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bubbly sound effects are followed by upbeat music. The lighting on set is very dim and soft, melancholic parody"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Introduction"
+        }
+      ],
+      "uuid": "85e64603-80f8-4c34-a8c6-1a6c12cef954"
+    },
+    {
+      "start_time": 13,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I was working in the lab one night, when my eyes beheld an eerie sight. For my monster from his nap began to rise, and suddenly, to my suprise,\" Ross Higgins sings with expressive vocals."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ross Higgins"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Verse 1"
+        }
+      ],
+      "uuid": "b033e3ff-4e0f-4759-bc31-27641af78593"
+    },
+    {
+      "start_time": 27,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"He did the mash! He did the monster mash. The monster mash! It was a graveyard smash. He did the mash! He caught on in a flash. He did the mash! He did the monster mash\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lyrics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Chorus"
+        }
+      ],
+      "uuid": "d1345fcb-0a0a-4e32-9cda-b4a21ee26830"
+    },
+    {
+      "start_time": 42,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The mood of the music video is very humorous as kids are dressed up as the classic monsters and Ross Higgins impersonating a scientist. Background visuals have cartoonish monsters, skeletons, and halloween decor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ross Higgins"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Setting"
+        }
+      ],
+      "uuid": "117bb3e7-a18d-48a3-b1fc-9aa000ff96ab"
+    },
+    {
+      "start_time": 57,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The color scheme is pastel, giving a nostalgic feel"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Setting"
+        }
+      ],
+      "uuid": "32dcffcc-ff99-44cc-82c4-8e0c1e71ccae"
+    },
+    {
+      "start_time": 71,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The Zombies were having fun. The party had just begun. The guest included the Wolfman, Dracula, and his son.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lyrics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Verse 2"
+        }
+      ],
+      "uuid": "54e2f1e5-9875-43fa-9eac-bd4e25f02850"
+    },
+    {
+      "start_time": 85,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is a choreographed part performed by kids. There are a lot of fade-in and crossfade camera transitions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transition"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Setting"
+        }
+      ],
+      "uuid": "03fde0a6-4f88-4ae1-988a-c585f8d7d823"
+    },
+    {
+      "start_time": 115,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"What ever happened to my Transylvanian twist?\" Ross Higgins impersonated Dracula with a strong Transylvanian accent while the kid mouths the lyrics. The kids' interaction with the \"spooky \" environment makes the video humorous."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ross Higgins"
+        }
+      ],
+      "uuid": "0c088174-05ea-4938-b1fa-a8caa15381ea"
+    },
+    {
+      "start_time": 129,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The kids dance to the chorus, and they are dressed in Halloween colors:  purple, greens, orange, black, grey."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Setting"
+        }
+      ],
+      "uuid": "1b4ea0dd-2f29-4484-9ebc-94422530a95b"
+    },
+    {
+      "start_time": 142,
+      "end_time": 156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Now everything's cool, tracks of the band, and my monster mash is the hit of the land. For you, the living, this mash was made too. When you get to my door, tell them Boris sent you.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lyrics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Verse 3"
+        }
+      ],
+      "uuid": "754f55c6-b322-4100-98b8-ab25e3683cb6"
+    },
+    {
+      "start_time": 157,
+      "end_time": 189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The song ends with an abrupt cut to the ABC for Kids logo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Outro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transition"
+        }
+      ],
+      "uuid": "5132f5a6-f465-441f-9e6a-0eca3e9d26fe"
     }
   ],
   "event_id": "8beb4a93-43f3-468f-bd10-158dd7f85745",
