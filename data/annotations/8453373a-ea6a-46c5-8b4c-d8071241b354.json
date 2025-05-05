@@ -1,1 +1,1110 @@
-{"annotations":[],"set":"Default","event_id":"8beb4a93-43f3-468f-bd10-158dd7f85745","source_id":"1a79010b-ca34-484d-983b-1a579451d2de"}
+{
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everyone in the world is going to bed one night or another with fear or pain or loss or disappointment"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speech"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "7c77273e-4840-4938-a668-8caf0e4fc8ae"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And yet each of us has awakened or risen"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speech"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "fbe35f0d-d36b-47f1-97bb-4f0c34ab7ca6"
+    },
+    {
+      "start_time": 13,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, somehow has made our ablution seeing other human beings and said “morning, how are you?” Fine, thanks and you?”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speech"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "9ad7ac76-28b8-439a-a2e0-9b41c7976859"
+    },
+    {
+      "start_time": 20,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is amazing. And wherever that abides in the human being there is the nobleness of the human spirit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speech"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "01da5318-15a3-4657-9f31-f136850e9fef"
+    },
+    {
+      "start_time": 28,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "despite it all, Black and White, Asain, Spanish, Native American, pretty, plain, thin, fat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speech"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "4915cd73-5008-46c0-9d8a-990876641627"
+    },
+    {
+      "start_time": 38,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vow to celibate, we rise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speech"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "5e5af48f-8554-4a2d-8ec3-2291f12a086f"
+    },
+    {
+      "start_time": 42,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You may write me down in history,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "e23ef6f3-18c7-4eb3-a200-1f558044ec1e"
+    },
+    {
+      "start_time": 45,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With your bitter, twisted lies,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "829c3024-bfca-4532-88ee-162c59d1b34a"
+    },
+    {
+      "start_time": 47,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You may trod me in the very dirt"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "1283e9db-3a62-4bfd-8517-7e10ebeef976"
+    },
+    {
+      "start_time": 50,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But still, like dust, I’ll rise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "be0c3e66-83b5-4cf9-ab41-9cc1514583d3"
+    },
+    {
+      "start_time": 54,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Does my sassiness upset you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "a448b519-c3f7-4fe2-862f-7f5c15bece18"
+    },
+    {
+      "start_time": 57,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why are you beset with gloom?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "6aad16af-5523-47bc-8188-69d75114d7b7"
+    },
+    {
+      "start_time": 59,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just cause I walk as if I’ve got oil wells pumping in my living room."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Altered"
+        }
+      ],
+      "uuid": "e9613c2d-51e0-4ec8-b88c-7883af3a1595"
+    },
+    {
+      "start_time": 65,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just like suns and like moons with the certainty of tides,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Altered"
+        }
+      ],
+      "uuid": "398cd700-acd6-42af-ad64-f741d06ec731"
+    },
+    {
+      "start_time": 71,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just like hopes springing high,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "793d7033-7fa6-4ace-b2ff-c1e76b1f33de"
+    },
+    {
+      "start_time": 73,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Still I rise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Title"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "00361e31-72f6-4ebd-805a-426002e60e91"
+    },
+    {
+      "start_time": 75,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you want to see me broken?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "2852953e-48e8-4899-b80c-4261c4c3da53"
+    },
+    {
+      "start_time": 77,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bowed head and lowered eyes?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "39f4a425-0556-4a50-9922-1864be3bbf15"
+    },
+    {
+      "start_time": 80,
+      "end_time": 82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shoulders falling down like teardrops,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "87d7463d-1f23-433d-8476-8f3decb298d8"
+    },
+    {
+      "start_time": 83,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Weakened by my soulful cries?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "492c8917-afb8-40b5-815b-08b82263f13e"
+    },
+    {
+      "start_time": 85,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Does my sassiness upset you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Altered"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Laugh"
+        }
+      ],
+      "uuid": "0b58d3c1-a8ab-4f19-892a-4b2404f48383"
+    },
+    {
+      "start_time": 89,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Don’t take it so hard just cause I laugh as if I have gold mines diggin’ in my own backyard."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Altered"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Laugh"
+        }
+      ],
+      "uuid": "f667f638-e89c-4bcd-96a2-ec421813d9cb"
+    },
+    {
+      "start_time": 100,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can shoot me with your words,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Altered"
+        }
+      ],
+      "uuid": "0c820514-ecd2-4bc9-9e58-e9f1f56a3f97"
+    },
+    {
+      "start_time": 103,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can cut me with your lies,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Altered"
+        }
+      ],
+      "uuid": "299193f6-8c52-47d7-a74e-f365d00fc253"
+    },
+    {
+      "start_time": 105,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can kill me with your hatefulness,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "f41489d4-62e1-4dc2-b27c-8f6e151274a2"
+    },
+    {
+      "start_time": 107,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But just like life,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "f2d4f9af-dffa-4207-9680-c2477d2bf9da"
+    },
+    {
+      "start_time": 109,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'll rise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Title"
+        }
+      ],
+      "uuid": "d67f2b32-bcf2-4abb-8b7e-6faf6e0a03ff"
+    },
+    {
+      "start_time": 111,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Does my sexiness offend you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "a498167d-dca0-40cf-8567-d46c1c9ca4a3"
+    },
+    {
+      "start_time": 113,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aw, does it come as a surprise that I dance"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "174ec4a0-b603-4ec0-9652-a59b0277b9f1"
+    },
+    {
+      "start_time": 121,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As if I have a diamond at the meeting of my thighs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "3276a348-266f-4c3f-b8d6-15c75655849f"
+    },
+    {
+      "start_time": 126,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Out of the huts of history's shame I rise,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Title"
+        }
+      ],
+      "uuid": "71e53605-eab6-48a7-a9cd-9137fa15f94d"
+    },
+    {
+      "start_time": 130,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Up from a past rooted in pain, I rise"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Title"
+        }
+      ],
+      "uuid": "3ec2298b-56ef-4215-900d-7bc9ced5d32b"
+    },
+    {
+      "start_time": 133,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A black ocean, leaping and wide,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhyme"
+        }
+      ],
+      "uuid": "a88de1de-d556-4333-96d7-9ac058aeb818"
+    },
+    {
+      "start_time": 136,
+      "end_time": 140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welling and swelling, I bear in the tide."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhyme"
+        }
+      ],
+      "uuid": "e41d94f6-6933-4f0d-b237-16da9df06215"
+    },
+    {
+      "start_time": 141,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Leaving behind nights of terror and fear, I rise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Title"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "76dfeae5-3c75-4c40-b391-3bb7d33c214b"
+    },
+    {
+      "start_time": 147,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Into a daybreak mircalously clear, I rise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Title"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "7342f1f0-77b0-49ab-8d83-fc1eda726ba5"
+    },
+    {
+      "start_time": 152,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bring the gifts that my ancestors gave, I am the dream and the hope of the slave."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "cfd5d163-d83f-472d-9418-165910b193df"
+    },
+    {
+      "start_time": 161,
+      "end_time": 163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, naturally,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "404551c1-f221-46ab-b4c0-fba9ce11d06b"
+    },
+    {
+      "start_time": 169,
+      "end_time": 170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There I go rising."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "a51b2a3e-3b2a-4996-8bbc-83f79694f7f5"
+    }
+  ],
+  "set": "Default",
+  "event_id": "8beb4a93-43f3-468f-bd10-158dd7f85745",
+  "source_id": "1a79010b-ca34-484d-983b-1a579451d2de"
+}
