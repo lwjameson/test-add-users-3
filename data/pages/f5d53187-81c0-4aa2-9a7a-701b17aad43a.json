@@ -29,13 +29,56 @@
             {
               "type": "image",
               "url": "https://cdn.britannica.com/20/177220-050-05241222/Stanley-Kubrick-filming-Barry-Lyndon.jpg",
-              "caption": "Kubric",
+              "caption": "Jones",
               "children": [
                 {
                   "text": ""
                 }
               ],
               "scale": 55
+            },
+            {
+              "type": "grid",
+              "layout": [
+                3,
+                3
+              ],
+              "children": [
+                {
+                  "type": "column",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             },
             {
               "type": "paragraph",
@@ -51,10 +94,41 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "grid",
+      "layout": [
+        6
+      ],
       "children": [
         {
-          "text": ""
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://tanyaclement.github.io/harvard1953/fullsizeoutput_1950e.jpeg",
+              "caption": "heya!",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     }
@@ -67,6 +141,6 @@
   "slug": "image-size",
   "created_at": "2025-06-06T18:04:20.902Z",
   "created_by": "lwjameson",
-  "updated_at": "2025-06-06T18:04:20.902Z",
+  "updated_at": "2025-06-06T18:59:26.366Z",
   "updated_by": "lwjameson"
 }
