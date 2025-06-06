@@ -315,11 +315,27 @@
         {
           "category": "_uncategorized_",
           "tag": "Amplitude"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Text"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Edward Brooks"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael Lewis"
         }
       ]
     },
     "created_at": "2025-04-01T14:58:45.962Z",
-    "updated_at": "2025-06-06T18:05:28.025Z",
+    "updated_at": "2025-06-06T18:19:13.102Z",
     "is_private": false,
     "generate_pages_site": true
   },
