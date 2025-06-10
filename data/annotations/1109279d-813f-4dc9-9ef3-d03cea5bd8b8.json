@@ -51,6 +51,34 @@
       ],
       "tags": [],
       "uuid": "0df66ff7-b206-4127-80df-efa9d3771a87"
+    },
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is "
+            },
+            {
+              "text": "Italics",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "followed by a break"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3c9c72ac-fc9b-4697-b81a-472fb907015d"
     }
   ]
 }
