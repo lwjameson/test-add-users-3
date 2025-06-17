@@ -300,12 +300,12 @@
   "title": "Paste Word Doc",
   "autogenerate": {
     "enabled": false,
-    "type": "custom"
+    "type": "home"
   },
   "slug": "paste-word-doc",
   "created_at": "2025-04-04T17:48:28.522Z",
   "created_by": "lwjameson",
-  "updated_at": "2025-04-18T19:08:30.083Z",
+  "updated_at": "2025-06-17T18:45:30.968Z",
   "updated_by": "lwjameson",
   "parent": "80c2c96f-2408-4d31-81c8-9f905fcb7ab2"
 }
