@@ -300,7 +300,7 @@
   "title": "Paste Word Doc",
   "autogenerate": {
     "enabled": false,
-    "type": "home"
+    "type": "custom"
   },
   "slug": "paste-word-doc",
   "created_at": "2025-04-04T17:48:28.522Z",
