@@ -1,0 +1,45 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "8a426826-081e-4cb6-807e-708fee6fbf12",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Test Embed",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "test-embed",
+  "created_at": "2025-06-24T18:06:06.511Z",
+  "created_by": "lwjameson",
+  "updated_at": "2025-06-24T18:06:06.511Z",
+  "updated_by": "lwjameson"
+}
