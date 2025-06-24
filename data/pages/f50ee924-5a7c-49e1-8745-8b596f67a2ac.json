@@ -30,6 +30,34 @@
           "text": ""
         }
       ]
+    },
+    {
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "0174acef-95b2-44e5-a968-9dd7e52a8df3"
+      },
+      "event2": {
+        "uuid": "0f3dff4e-6f4a-4f69-9fa9-9f52454504e6"
+      },
+      "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Test Embed",
@@ -40,6 +68,6 @@
   "slug": "test-embed",
   "created_at": "2025-06-24T18:06:06.511Z",
   "created_by": "lwjameson",
-  "updated_at": "2025-06-24T18:06:06.511Z",
+  "updated_at": "2025-06-24T18:06:53.063Z",
   "updated_by": "lwjameson"
 }
